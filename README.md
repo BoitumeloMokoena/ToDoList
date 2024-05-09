@@ -1,6 +1,6 @@
 # ToDoList 📝✨
 
-Welcome to the ToDoList project! Get ready to organize your tasks in style! 🌟
+Welcome to the ToDoList project! Get ready to organise your tasks in style! 🌟
 
 ## Description
 
